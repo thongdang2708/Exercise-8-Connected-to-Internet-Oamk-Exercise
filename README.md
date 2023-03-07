@@ -1,2 +1,2 @@
-# Ex8_Todo_MVVM_API
+Exercise-8-Connected-to-Internet-Oamk-Exercise
 
